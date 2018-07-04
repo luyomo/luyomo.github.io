@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: chunhua zhang
+twitter_username: chou
+name: chunhua zhang
 
 # Build settings
 markdown: kramdown
@@ -22,15 +22,9 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Groovy
- - Spring MVC
- - Spring Boot
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
- - Tech Architecture
+ - k8s/istio/kong/openresty/nginx
+ - postgres/maraidb/mongo/oracle
+ - nodejs/rust/lisp
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
